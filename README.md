@@ -1,3 +1,5 @@
+This app created with "npx gatsby new gatsby-blog" command (without installing gatsby CLI)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
